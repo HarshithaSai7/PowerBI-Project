@@ -1,7 +1,10 @@
 # PowerBI-Project
-This Power BI dashboard provides an analytical overview of employee distribution, salary trends, and departmental insights.
-Below is a breakdown of the key components:
+# Project Title:Employee Data Analysis and Salary Insights Dashboard
 
+# Project Description:
+This Power BI Desktop dashboard provides an in-depth analysis of employee distribution, salary trends, and departmental insights. It visualizes hiring patterns, salary allocations, age demographics, and gender diversity across different departments. The report enables data-driven decision-making for HR teams and management by offering a structured overview of workforce trends.
+
+# Key Features:
 1. Employee Count and Salary Summary  
    - The total employee count is 183 and the sum of salaries amounts to 14 million.  
    - A world map visual is included, showing the locations of employees across different regions.  
@@ -24,4 +27,12 @@ Below is a breakdown of the key components:
 
 6. Insights and Usage
    - The dashboard helps HR teams, management, and analysts track workforce trends, salary distribution, and hiring patterns.  
-   - It aids in decision-making related to recruitment, salary adjustments, and gender diversity within departments.  
+   - It aids in decision-making related to recruitment, salary adjustments, and gender diversity within departments.
+     
+# Tools & Skills Used: 
+- Tool: Power BI Desktop  
+- Data Source:Imported employee dataset from Microsoft Excel  
+- Data Processing: Data cleaning, transformation, and modeling in Power BI  
+- Visualizations: Line charts, bar charts, histograms, and maps for clear insights  
+ 
+
